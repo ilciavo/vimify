@@ -40,7 +40,7 @@ The preferred way to install vimify is to use [pathogen](https://github.com/tpop
 cd ~/.vim/bundle
 git clone https://github.com/MuAnsari96/vimify
 ```
-If you use [vundle](https://github.com/VundleVim/Vundle.vim) add this line to your ~/.vimrc:
+If you use [vundle](https://github.com/VundleVim/Vundle.vim), add this line to your ~/.vimrc:
 ```
 Bundle 'git@github.com:HendrikPetertje/vimify.git'
 ```
