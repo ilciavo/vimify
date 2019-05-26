@@ -40,6 +40,12 @@ The preferred way to install vimify is to use [pathogen](https://github.com/tpop
 cd ~/.vim/bundle
 git clone https://github.com/MuAnsari96/vimify
 ```
+If you use [vundle](https://github.com/VundleVim/Vundle.vim) add this line to your ~/.vimrc:
+```
+Bundle 'git@github.com:HendrikPetertje/vimify.git'
+```
+and run `:BundleInstall`.
+
 ### update March 2018: Vimify now requires authentication.
 
 1. Create a new spotify application at https://beta.developer.spotify.com/dashboard/applications
